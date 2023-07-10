@@ -1,0 +1,19 @@
+.otpInp {
+    width: 72px;
+    height: 72px;
+    background-color: #fff;
+    border: 1px solid #D0DBEA;
+    padding: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.otpInp:focus {
+    outline:1px solid #D0DBEA !important;
+}

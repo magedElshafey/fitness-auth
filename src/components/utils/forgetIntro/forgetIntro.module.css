@@ -1,0 +1,16 @@
+.lock {
+    width: 156.715px;
+    height:  172.449px;
+}
+.title {
+    color: #101010;
+    font-size: 32px;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+.desc {
+    font-size: 16px;
+    color: #9098B1;
+    font-weight: 400;
+    letter-spacing: 0.5px;
+}

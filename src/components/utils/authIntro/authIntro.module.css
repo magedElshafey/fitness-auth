@@ -1,0 +1,21 @@
+.question , .link {
+    color: #9098B1;
+    font-size: 12px;
+    font-weight: 400;
+    font-weight: 400;
+    text-align: left !important;
+}
+.link {
+    text-decoration: none;
+    color: #B891F5 !important;
+}
+.title {
+    font-weight: 700;
+    font-size: 32px;
+    color: #101010;
+}
+.desc {
+    color: #9098B1;
+    font-size: 20px;
+    font-weight: 400;
+}

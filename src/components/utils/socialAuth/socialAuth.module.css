@@ -1,0 +1,24 @@
+.intro {
+    color: #9098B1;
+    font-weight: 400;
+}
+.box {
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border: 1px solid #DDDADA;
+    border-radius: 14px;
+    -webkit-border-radius: 14px;
+    -moz-border-radius: 14px;
+    -ms-border-radius: 14px;
+    -o-border-radius: 14px;
+}
+.google {
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+}
